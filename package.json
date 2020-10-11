@@ -6,10 +6,6 @@
   "bin": {
     "arung": "./card.js"
   },
-  "scripts": {
-    "test": "node card.js",
-    "pub": "npm version patch & npm publish"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Arun-George-Zachariah/Contact-Card.git"
